@@ -1,0 +1,7 @@
+id = "windows2000"
+name = "Windos2000"
+description = ""
+version = "0.1.0"
+schema_version = 1
+authors = ["Lewin Probst<info@emirror.de>"]
+repository = "https://github.com/emirror-de/windows2000-zed"
