@@ -34,7 +34,7 @@
                 "text.accent": "#0A246A",
                 "link_text.hover": "#FF0000",
 
-                "icon": "#000000",
+                "icon": "#FFFFFF",
                 "icon.muted": "#404040",
                 "icon.disabled": "#808080",
                 "icon.placeholder": "#606060",
@@ -101,17 +101,17 @@
                 "info.background": "#E6ECF7",
                 "info.border": "#0A246A",
 
-                "created": "#006400",
+                "created": "#6EE06E",
                 "created.background": "#E6F2E6",
-                "created.border": "#006400",
+                "created.border": "#3CB371",
 
                 "modified": "#6B6000",
                 "modified.background": "#F7F3E0",
                 "modified.border": "#6B6000",
 
-                "deleted": "#5A0000",
+                "deleted": "#FF7A7A",
                 "deleted.background": "#FBEAEA",
-                "deleted.border": "#8B0000",
+                "deleted.border": "#B22222",
 
                 "renamed": "#006666",
                 "renamed.background": "#E6F2F2",
